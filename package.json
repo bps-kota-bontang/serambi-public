@@ -1,7 +1,7 @@
 {
-  "name": "@onwidget/astrowind",
-  "version": "1.0.0-beta.39",
-  "description": "AstroWind: A free template using Astro 4.0 and Tailwind CSS. Astro starter theme.",
+  "name": "serambi",
+  "version": "0.1.0",
+  "description": "Temukan berbagai layanan publik yang kami sediakan untuk Anda di sini.",
   "type": "module",
   "private": true,
   "engines": {

@@ -91,6 +91,7 @@ export interface MetaDataTwitter {
 export interface Image {
   src: string;
   alt?: string;
+  supportsDarkMode?: boolean;
 }
 
 export interface Video {
@@ -139,6 +140,7 @@ export interface Item {
   classes?: Record<string, string>;
   callToAction?: CallToAction;
   image?: Image;
+  link?: string;
 }
 
 export interface Price {
