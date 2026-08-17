@@ -1,6 +1,6 @@
 site:
   name: Serambi
-  site: 'https://bpsbontang.com'
+  site: 'https://databontang.com'
   base: '/'
   trailingSlash: false
 

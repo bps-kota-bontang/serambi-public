@@ -26,7 +26,7 @@ const whenExternalScripts = (items = []) =>
 
 export default defineConfig({
   output: 'static',
-  site: 'https://bpsbontang.com',
+  site: 'https://databontang.com',
   integrations: [
     tailwind({
       applyBaseStyles: false,
